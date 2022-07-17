@@ -2,7 +2,7 @@
 - 💡 I'm currently working on my personal Project - Tire-Shop. Project, which will be as my Portfolio
 - 👀 I’m interested in Programming, Music, Fitness, cycling, car tuning, Hardware, Software, etc.
 - 🌱 I’m currently learning vanilla JavaScript, ReactJs, ExpressJs, Sass and MySQL.
-- 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/marticvet/), Main Email - martigiant@gmail.com or Secondary Email - martincvetanov00@gmail.com, mobile: +49 17656723368 or +359876456685.
+- 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/marticvet/), Main Email: martigiant@gmail.com or Secondary Email: martincvetanov00@gmail.com, mobile: +49 17656723368 or +359876456685.
 - 💻 My social media profiles: [Instagram](https://www.instagram.com/martinncvetanov/) or [Facebook](https://www.facebook.com/Marticvet )
 
 
