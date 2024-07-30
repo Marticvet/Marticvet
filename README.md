@@ -2,7 +2,7 @@
 
 **`Junior Software Developer`**
 
-I'm future Software Developer and I'm building my version of the digital world one step at a time. My main and biggest project Tire-Shop is built from the ground up, from planning, designing and the database all the way to solving real-life problems with code. When I have unsolvable problem while I'm coding, I always come up with strange solution, which most of the times is working from the first time. This approach leads me even in the real life.
+I'm Software Developer and I'm building my version of the digital world one step at a time. My main and biggest project Tire-Shop is built from the ground up, from planning, designing and the database all the way to solving real-life problems with code. When I have unsolvable problem while I'm coding, I always come up with strange solution, which most of the times is working from the first time. This approach leads me even in the real life.
 
 <p align="left">
    <a style="margin-right: 8px;" href="https://tiresshop.netlify.app/"><img width="30px" alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://tiresshop.netlify.app/static/media/Tire%20Shop-logos_transparent.8624e4a337a1db8f3e5f.png"/></a> 
