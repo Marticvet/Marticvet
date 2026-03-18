@@ -1,6 +1,6 @@
 # 🏄‍♂️ Martin Tsvetanov 
 
-**`Junior Software Developer`**
+**`Software Developer`**
 
 I'm Software Developer and I'm building my version of the digital world one step at a time. My main and biggest project Tire-Shop is built from the ground up, from planning, designing and the database all the way to solving real-life problems with code. When I have unsolvable problem while I'm coding, I always come up with strange solution, which most of the times is working from the first time. This approach leads me even in the real life.
 
